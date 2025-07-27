@@ -25,3 +25,5 @@ PlantHealthMonitor/
     ├── style.css
     └── script.js
 ```
+<img width="1920" height="1080" alt="Screenshot (293)" src="https://github.com/user-attachments/assets/a0de0d7b-9b1b-4e40-9140-89c5ca509f39" />
+<img width="1920" height="1080" alt="Screenshot (292)" src="https://github.com/user-attachments/assets/2dcf2b70-f490-48b6-9985-4608985300f7" />
